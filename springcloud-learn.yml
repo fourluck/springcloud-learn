@@ -1,5 +1,5 @@
 zuul:
   routes:
     hello-service:
-      path: '{cipher}AQCVHqAMTDA1gAPYlHg5FxkaZyYlACQBxZ7MCvZU6KRHNuEtVxR0NCv982Di0OMF+gZuns9YW95zk1vjPP0r+Mx1PUGUXdXxNMlN1/tmHGYaHwHoaNJHVgDELdZEjqSdnwEo0RITtj7Eaf6MT+vUFihaL80kvtcOlSFarQWjxFbWYUD3+R2JORWOipktLbwqpSJnUt1kuQJXISB/wiMbnOrNTsmg1JyYId+SwDNI5wdYuyqXxKx09MI8wmzeBfT0ZhJTapCngjUpBZmUpwuBZvUGeJkcHGr4PZb9WrQ4LY7EAeSyxiYjmw//odmKgxCO+l0/jaR4gQhjusNRu5yEIq6oiabZWBmrUm0egBSYbaZY77a35xdyy6glh5LybnQAWpE='
+      path: '{cipher}AQBCeE8xHCOomJiHDZuRewmce3lA/KUCGbE7somZSn/fDw9HVtTcwjb0xc77LetrsJp2DO1fYQ2/kjnOO+JCbSJYGtK6afo+r7pZ2w2X/pl5aldEFWXzMj8VdGyVIYyrsU4Ymd+2hYIDA1n0hG2HjHvlI0j+mCFjl4vyTPdp+mNMSQ6algMHS/XcZXKPJE5V6AkqdONPlqRVGeb2n9u86yWLNISZESICaF7XTvYeodhzRr4hntBuL9LRF92ytKDtWjEVZmiEKLgAbaQxblWpVgMOJxx77f+0fBQpYEz2HXPR3tC2ctt0oa4inPWT1ZLKUUjP1kinP+nUU3V6ZWEFqPX6G9GcJJsnYuj6i9cUWkouY8o/1J+cMPypUwxXRnRYxAo='
       serviceId: hello-service
